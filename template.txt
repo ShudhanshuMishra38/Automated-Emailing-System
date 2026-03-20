@@ -1,6 +1,18 @@
-Dear ${PERSON_NAME},
-
-You have secured the following marks in your mid-term exams:
-Math - ${MATH}
-English - ${ENG}
-Science - ${SCI}
+<html>
+  <body style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
+    <h2 style="color: #0056b3;">TechNova Conference 2026</h2>
+    <p>Dear <strong>${NAME}</strong>,</p>
+    <p>Your registration is confirmed. We are excited to see you at the event! Below are your final registration details:</p>
+    
+    <div style="background-color: #f9f9f9; padding: 15px; border-left: 4px solid #0056b3; margin: 20px 0;">
+      <ul style="list-style-type: none; padding: 0;">
+        <li>🎟️ <strong>Ticket Tier:</strong> ${TICKET_TYPE}</li>
+        <li>📅 <strong>Date:</strong> ${DATE}</li>
+        <li>💻 <strong>Registered Workshop:</strong> ${WORKSHOP}</li>
+      </ul>
+    </div>
+    
+    <p>Please have your QR code ready at the registration desk upon arrival.</p>
+    <p>Best regards,<br><strong>The TechNova Event Team</strong></p>
+  </body>
+</html>
