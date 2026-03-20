@@ -1,3 +1,16 @@
-Name,Email,Math,English,Science
-John Doe,john.doe@example.com,85,90,88
-Jane Smith,jane.smith@example.com,92,88,95
+Name,Email,Ticket_Type,Workshop,Date
+Donald Trump,donald.j.test1@example.com,VIP Pass,Advanced Machine Learning,Oct 12th
+Jeffrey Epstein,jeff.epstein.test2@example.com,General Admission,Intro to Python,Oct 12th
+Ghislaine Maxwell,ghislaine.m.test3@example.com,Student Pass,Data Science Basics,Oct 13th
+Prince Andrew,andrew.p.test4@example.com,Speaker Pass,AI Ethics Panel,Oct 12th
+Elon Musk,elon.m.test5@example.com,General Admission,Cloud Computing,Oct 13th
+Melania Trump,melania.t.test6@example.com,VIP Pass,Advanced Machine Learning,Oct 12th
+Jared Kushner,jared.k.test7@example.com,Student Pass,Intro to Python,Oct 12th
+Kristi Noem,kristi.n.test8@example.com,General Admission,Data Science Basics,Oct 13th
+Michael Jackson,jackson.m.test9@example.com,Speaker Pass,Future of Tech,Oct 13th
+Bill Clinton,clinton.b.test10@example.com,VIP Pass,Cloud Computing,Oct 13th
+Hillary Clinton,clinton.h.test11@example.com,General Admission,Intro to Python,Oct 12th
+Ronald Reagan,ronald.r.test12@example.com,Student Pass,AI Ethics Panel,Oct 12th
+Vladimir Putin,vladimir.p.test13@example.com,General Admission,Data Science Basics,Oct 13th
+Silvio Berlusconi,berlusconi.s.test14@example.com,VIP Pass,Future of Tech,Oct 13th
+JD Vance,vance.d.test15@example.com,Speaker Pass,Advanced Machine Learning,Oct 12th
